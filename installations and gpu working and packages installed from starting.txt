@@ -1,0 +1,6 @@
+from powershell terminal 
+
+create a venv using 
+1)python - m venv new_venv
+to activate it 
+1)new_venv/bin/Activate.ps1
